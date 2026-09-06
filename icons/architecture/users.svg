@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Users</title><desc id="desc">Three people representing a team or user population. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><circle cx="60" cy="102" r="24" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><path d="M22 204 V166 Q22 122 99 143 V204 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="194" cy="102" r="24" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><path d="M155 204 V143 Q232 122 232 166 V204 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="126" cy="73" r="31" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><path d="M68 219 V164 C68 111 184 111 184 164 V219 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><line x1="84" y1="180" x2="84" y2="207" stroke="#78909B" stroke-width="3"/></g>
+</svg>

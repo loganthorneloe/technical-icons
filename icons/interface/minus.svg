@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Minus</title><desc id="desc">A single horizontal steel bar with a machined edge. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><polygon points="44,108 57,98.9 218,98.9 205,108" fill="#78909B" stroke="#101527" stroke-width="2.5"/><polygon points="205,108 218,98.9 218,131.9 205,141" fill="#304654" stroke="#101527" stroke-width="2.5"/><rect x="44" y="108" width="161" height="33" rx="3" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><line x1="48" y1="110" x2="201" y2="110" stroke="#78909B" stroke-width="1.5"/></g>
+</svg>

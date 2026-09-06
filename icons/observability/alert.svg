@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Alert</title><desc id="desc">High-contrast warning triangle with an exclamation mark. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M126 35 L227 210 H25 Z" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><path d="M126 59 L204 197 H49 Z" fill="#CC3333" stroke="#101527" stroke-width="2.5"/><rect x="120" y="103" width="12" height="48" rx="4" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><circle cx="126" cy="172" r="7" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/></g>
+</svg>

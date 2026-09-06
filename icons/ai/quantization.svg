@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Quantization</title><desc id="desc">Smooth numerical values mapped onto a finite set of discrete levels. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M38 211 V43 M38 211 H225" fill="none" stroke="#E9DDC7" stroke-width="3"/><path d="M50 190 C84 190 90 61 210 61" fill="none" stroke="#78909B" stroke-width="4"/><path d="M50 190 H80 V162 H110 V134 H140 V106 H170 V78 H210" fill="none" stroke="#CC3333" stroke-width="6"/></g>
+</svg>

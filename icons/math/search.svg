@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Search</title><desc id="desc">Large inspection lens with a red grip. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><line x1="162.4" y1="161.4" x2="220.0" y2="219.0" stroke="#101527" stroke-width="17"/><line x1="162.4" y1="161.4" x2="220.0" y2="219.0" stroke="#CC3333" stroke-width="10"/><circle cx="112" cy="111" r="72" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><circle cx="112" cy="111" r="63" fill="#304654" stroke="#101527" stroke-width="2.5"/><path d="M77.44 107 Q79.6 75.0 110 75.0" fill="none" stroke="#E9DDC7" stroke-width="3"/></g>
+</svg>

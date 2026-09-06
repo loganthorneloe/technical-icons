@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Dashed boundary</title><desc id="desc">Dashed boundary for a logical or optional grouping. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M39 30 H217 Q231 30 231 44 V212 Q231 226 217 226 H39 Q25 226 25 212 V44 Q25 30 39 30 Z" fill="none" stroke="#E9DDC7" stroke-width="3" stroke-dasharray="10 8"/></g>
+</svg>

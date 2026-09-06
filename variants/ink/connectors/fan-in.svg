@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Fan in</title><desc id="desc">Three inputs converging into one output. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M25 40 H121 V216 H25 M25 128 H229" fill="none" stroke="#101527" stroke-width="3"/><path d="M219 121 L229 128 L219 135" fill="none" stroke="#101527" stroke-width="3"/></g>
+</svg>

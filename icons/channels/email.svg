@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Email</title><desc id="desc">A folded ivory envelope with overlapping paper flaps. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><polygon points="36,85 47,77.3 221,77.3 210,85" fill="#FFF4DE" stroke="#101527" stroke-width="2.5"/><polygon points="210,85 221,77.3 221,194.3 210,202" fill="#B8AC99" stroke="#101527" stroke-width="2.5"/><rect x="36" y="85" width="174" height="117" rx="3" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><line x1="40" y1="87" x2="206" y2="87" stroke="#FFF4DE" stroke-width="1.5"/><polygon points="39,88 123.0,157.54000000000002 207,88" fill="#FFF4DE" stroke="#101527" stroke-width="2.5"/><polygon points="39,199 123.0,139.99 207,199" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><line x1="40" y1="200" x2="206" y2="200" stroke="#B8AC99" stroke-width="2"/></g>
+</svg>

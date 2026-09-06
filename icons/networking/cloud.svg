@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Cloud</title><desc id="desc">Cloud silhouette with a crisp shaded lower edge. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M56 178 C16 176 18 119 54 116 C49 66 115 45 145 87 C174 67 212 89 207 121 C241 133 231 178 201 178 Z" fill="#304654" stroke="#101527" stroke-width="2.5"/><path d="M48 168 C8 166 10 109 46 106 C41 56 107 35 137 77 C166 57 204 79 199 111 C233 123 223 168 193 168 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><path d="M39 120 C21 126 26 153 43 155 M66 94 C69 68 106 64 122 86" fill="none" stroke="#78909B" stroke-width="5"/></g>
+</svg>

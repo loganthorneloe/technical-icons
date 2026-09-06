@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Internet</title><desc id="desc">Latitude and longitude globe with a highlighted endpoint. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><circle cx="125" cy="123" r="83" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><ellipse cx="125" cy="123" rx="38" ry="83" fill="none" stroke="#E9DDC7" stroke-width="2.5"/><ellipse cx="125" cy="123" rx="83" ry="33" fill="none" stroke="#E9DDC7" stroke-width="2.5"/><line x1="42" y1="123" x2="208" y2="123" stroke="#E9DDC7" stroke-width="2.5"/><line x1="125" y1="40" x2="125" y2="206" stroke="#E9DDC7" stroke-width="2.5"/><circle cx="190" cy="73" r="11" fill="#CC3333" stroke="#101527" stroke-width="2.5"/></g>
+</svg>

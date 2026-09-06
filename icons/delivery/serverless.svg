@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Serverless</title><desc id="desc">Cloud execution surface with an on-demand compute bolt. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M48 167 C17 167 15 121 43 116 C33 66 101 40 134 77 C173 53 212 92 199 119 C232 128 229 169 199 169 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><path d="M134 84 L93 136 H124 L110 194 L163 124 H131 Z" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><line x1="55" y1="197" x2="83" y2="197" stroke="#CC3333" stroke-width="4"/><line x1="181" y1="197" x2="209" y2="197" stroke="#CC3333" stroke-width="4"/></g>
+</svg>

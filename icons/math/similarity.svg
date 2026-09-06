@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Similarity</title><desc id="desc">Two vectors with a marked angle for cosine similarity. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M48 211 V40 M48 211 H220" fill="none" stroke="#E9DDC7" stroke-width="3"/><line x1="48" y1="211" x2="171" y2="68" stroke="#E9DDC7" stroke-width="5"/><path d="M170.40 77.98 L171 68 L161.22 70.09" fill="none" stroke="#E9DDC7" stroke-width="5"/><line x1="48" y1="211" x2="207" y2="113" stroke="#CC3333" stroke-width="5"/><path d="M203.40 122.33 L207 113 L197.05 112.03" fill="none" stroke="#CC3333" stroke-width="5"/><path d="M95 155 a72 72 0 0 1 18 20" fill="none" stroke="#78909B" stroke-width="5"/></g>
+</svg>

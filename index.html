@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Standalone SVG icons for technical diagrams, websites, and social links, with illustrated and compact styles.">
+  <title>Icons — AI for Software Engineers</title>
+  <link rel="stylesheet" href="catalog/style.css">
+  <script src="catalog/data.js" defer></script>
+  <script src="catalog/app.js" defer></script>
+</head>
+<body>
+  <header>
+    <a class="wordmark" href="index.html"><span class="mark" aria-hidden="true"></span>AI FOR SOFTWARE ENGINEERS<span class="edition">ICONS / 01</span></a>
+    <a class="guide" href="docs/usage.md">Usage guide ↗</a>
+  </header>
+  <main>
+    <section class="hero">
+      <div><p class="eyebrow">ONE LIBRARY. ROOM TO GROW.</p><h1>Icons for diagrams<br>and the web<span>.</span></h1><p class="intro">Cel-shaded technical objects, sculpted social marks, and distinctive website and contact icons. Choose a style, check it at the size you need, and use the SVG straight from its category folder.</p><div class="facts"><span id="total">285 icon concepts</span><span id="category-total">17 categories</span><span>Editable vectors</span></div></div>
+      <div class="hero-art" aria-label="Tokenizer and vector database icon samples"><img class="hero-machine" src="icons/ai/tokenizer.svg" alt="Red tokenizer machine"><img class="hero-database" src="icons/storage/vector-database.svg" alt="Steel-blue vector database"><span class="specimen">FORM / FUNCTION / CONNECTION</span></div>
+    </section>
+    <section class="workbench" aria-label="Icon library">
+      <div class="toolbar"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search icons, concepts, or aliases…" autocomplete="off" aria-label="Search icons"><kbd>/</kbd></label><div class="backgrounds" role="group" aria-label="Preview background"><button data-bg="dark" aria-pressed="true" title="Dark background"><i class="dark"></i>Dark</button><button data-bg="paper" aria-pressed="false" title="Ivory background"><i class="paper"></i>Ivory</button><button data-bg="white" aria-pressed="false" title="White background"><i class="white"></i>White</button></div></div>
+      <div class="view-options"><label>Style <select id="style-filter"><option value="all">All styles</option><option value="illustrated">Illustrated</option><option value="compact">Compact</option><option value="brand">Flat marks</option></select></label><label>Preview size <select id="size-filter"><option value="fit">Fit</option><option value="24">24px</option><option value="32">32px</option><option value="48">48px</option><option value="96">96px</option></select></label><span id="style-summary"></span></div><div class="browser-layout"><aside><p class="eyebrow">COLLECTIONS</p><nav id="categories" aria-label="Icon categories"></nav><a class="sheet-link" href="docs/overview.svg">View overview ↗</a></aside><div class="results"><div class="results-heading"><h2 id="collection-title">All icons</h2><span id="count" role="status" aria-live="polite"></span></div><div id="grid" class="icon-grid"></div><div id="empty" hidden><h3>No matching icons.</h3><p>Try a broader term such as “model”, “storage”, or “flow”.</p><button id="reset">Clear filters</button></div></div></div>
+    </section>
+    <section class="examples"><div class="section-heading"><div><p class="eyebrow">PUT THE PIECES TOGETHER</p><h2>Four diagrams to start from.</h2></div><p>Open a complete SVG, or assemble your own.</p></div><div class="example-grid"><a href="examples/tokenization.svg"><img src="examples/tokenization.svg" alt="Text to token IDs diagram" loading="lazy"><span>01 / Tokenization ↗</span></a><a href="examples/rag.svg"><img src="examples/rag.svg" alt="Retrieval augmented generation diagram" loading="lazy"><span>02 / Retrieval augmented generation ↗</span></a><a href="examples/service-architecture.svg"><img src="examples/service-architecture.svg" alt="Service architecture diagram" loading="lazy"><span>03 / Service architecture ↗</span></a><a href="examples/delivery-pipeline.svg"><img src="examples/delivery-pipeline.svg" alt="Software delivery pipeline diagram" loading="lazy"><span>04 / Delivery pipeline ↗</span></a></div></section>
+  </main>
+  <footer><span>AI FOR SOFTWARE ENGINEERS / ICONS</span><span>Local files. No account. Ready to assemble.</span></footer>
+  <dialog id="detail" aria-labelledby="detail-name"><button id="close" class="close" aria-label="Close icon details">×</button><div class="detail-layout"><div id="detail-preview" class="detail-preview"></div><div class="detail-copy"><p id="detail-category" class="eyebrow"></p><h2 id="detail-name"></h2><p id="detail-description"></p><p class="file-path" id="detail-path"></p><div id="detail-tags" class="tags"></div><label class="detail-style-label" for="detail-style">Style</label><select id="detail-style"></select><p id="detail-format" class="format"></p><div class="detail-actions"><button id="download" class="primary">Download SVG ↓</button><button id="copy">Copy SVG code</button></div><p id="detail-usage" class="usage-note"></p><p id="detail-attribution" class="attribution" hidden></p><p id="copy-status" role="status" aria-live="polite"></p><textarea id="copy-fallback" readonly hidden aria-label="SVG code to copy"></textarea></div></div></dialog>
+  <noscript><p class="noscript">Enable JavaScript to search, or open the <a href="docs/catalog.md">complete icon index</a>.</p></noscript>
+</body>
+</html>

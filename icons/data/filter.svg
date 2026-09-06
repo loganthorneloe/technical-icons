@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Filter</title><desc id="desc">Funnel narrowing many records into a selected output. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><polygon points="35,53 219,53 149,134 149,206 109,219 109,134" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><polygon points="35,53 219,53 193,81 60,81" fill="#78909B" stroke="#101527" stroke-width="2.5"/><circle cx="79" cy="65" r="5" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><circle cx="125" cy="65" r="5" fill="#CC3333" stroke="#101527" stroke-width="2.5"/><circle cx="171" cy="65" r="5" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><line x1="121" y1="149" x2="121" y2="192" stroke="#E9DDC7" stroke-width="3"/></g>
+</svg>

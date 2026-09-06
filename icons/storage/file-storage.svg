@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">File storage</title><desc id="desc">File folder with a front label and shaded backing. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M36 64 H108 L127 84 H214 V208 H36 Z" fill="#304654" stroke="#101527" stroke-width="2.5"/><path d="M30 84 H108 L125 103 H220 L204 213 H42 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><line x1="48" y1="108" x2="208" y2="108" stroke="#78909B" stroke-width="2"/><rect x="73" y="133" width="105" height="48" rx="3" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><line x1="88" y1="148" x2="160" y2="148" stroke="#526B7A" stroke-width="3"/><line x1="88" y1="162" x2="137" y2="162" stroke="#526B7A" stroke-width="3"/></g>
+</svg>

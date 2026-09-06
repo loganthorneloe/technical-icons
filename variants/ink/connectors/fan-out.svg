@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Fan out</title><desc id="desc">One input splitting into three directed outputs. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M25 128 H121 V 40 H229 M121 128 H229 M121 128 V216 H229" fill="none" stroke="#101527" stroke-width="3"/><path d="M219 33 L229 40 L219 47" fill="none" stroke="#101527" stroke-width="3"/><path d="M219 121 L229 128 L219 135" fill="none" stroke="#101527" stroke-width="3"/><path d="M219 209 L229 216 L219 223" fill="none" stroke="#101527" stroke-width="3"/></g>
+</svg>

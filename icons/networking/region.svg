@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Cloud region</title><desc id="desc">Geographic pin containing three infrastructure units. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M126 223 C96 183 55 138 55 96 a71 71 0 1 1 142 0 C197 139 155 188 126 223 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="126" cy="96" r="48" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><rect x="96" y="84" width="16" height="26" rx="2" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><rect x="119" y="84" width="16" height="26" rx="2" fill="#CC3333" stroke="#101527" stroke-width="2.5"/><rect x="142" y="84" width="16" height="26" rx="2" fill="#526B7A" stroke="#101527" stroke-width="2.5"/></g>
+</svg>

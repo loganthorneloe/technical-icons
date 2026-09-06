@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Unit test</title><desc id="desc">Single test case on a clipboard with a pass mark. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><polygon points="55,50 67,41.6 212,41.6 200,50" fill="#78909B" stroke="#101527" stroke-width="2.5"/><polygon points="200,50 212,41.6 212,205.6 200,214" fill="#304654" stroke="#101527" stroke-width="2.5"/><rect x="55" y="50" width="145" height="164" rx="3" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><line x1="59" y1="52" x2="196" y2="52" stroke="#78909B" stroke-width="1.5"/><rect x="74" y="73" width="102" height="114" rx="3" fill="#101527" stroke="#101527" stroke-width="2.5"/><path d="M88 135.0 l22.4 22.4 l41.6 -54.4" fill="none" stroke="#E9DDC7" stroke-width="4"/><rect x="100" y="39" width="53" height="23" rx="3" fill="#CC3333" stroke="#101527" stroke-width="2.5"/></g>
+</svg>

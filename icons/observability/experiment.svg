@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Experiment</title><desc id="desc">Laboratory flask with a controlled experiment mixture. </desc>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M97  35 H155 V103 L207 193 Q218 218 190 218 H62 Q36 218 47 193 L97 103 Z" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><path d="M83 145 H169 L195 194 Q202 205 188 205 H64 Q50 205 57 194 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><line x1="97" y1="52" x2="155" y2="52" stroke="#101527" stroke-width="3"/><circle cx="104" cy="177" r="9" fill="#CC3333" stroke="#101527" stroke-width="2.5"/><circle cx="148" cy="188" r="6" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><circle cx="137" cy="154" r="5" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/></g>
+</svg>
