@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Up arrow</title><desc id="desc">Directed connection from bottom to top. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><line x1="128" y1="229" x2="128" y2="25" stroke="#E9DDC7" stroke-width="3"/><path d="M134.05 32.96 L128 25 L121.95 32.96" fill="none" stroke="#E9DDC7" stroke-width="3"/></g>
-</svg>

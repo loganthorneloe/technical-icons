@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Git branch</title><desc id="desc">Main history line with a diverging development branch. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M83 213 V44 M84 153 C153 153 179 129 179 93 V64" fill="none" stroke="#E9DDC7" stroke-width="7"/><circle cx="83" cy="54" r="16" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="83" cy="198" r="16" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="179" cy="68" r="16" fill="#CC3333" stroke="#101527" stroke-width="2.5"/><circle cx="83" cy="153" r="16" fill="#526B7A" stroke="#101527" stroke-width="2.5"/></g>
-</svg>

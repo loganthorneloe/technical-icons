@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Distribution</title><desc id="desc">Bell-shaped probability density with its central band highlighted. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M 30  202 H228 M 40 202 V 40" fill="none" stroke="#E9DDC7" stroke-width="3"/><path d="M44 201 C80 201 81 58 128 58 C175 58 175 201 215 201 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><path d="M111  70 Q128 45 145 70 V200 H111 Z" fill="#CC3333" stroke="#101527" stroke-width="2.5"/><line x1="128" y1="57" x2="128" y2="202" stroke="#E9DDC7" stroke-width="2"/></g>
-</svg>

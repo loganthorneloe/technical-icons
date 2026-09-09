@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="title desc">
-<title id="title">Matrix — compact</title><desc id="desc">Two-dimensional array enclosed by matrix brackets.</desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M6 3 H3 V21 H6 M18 3 H21 V21 H18" fill="none" stroke="#101527" stroke-width="1.75"/><circle cx="9" cy="6" r="1" fill="#101527" stroke="#101527" stroke-width="1.5"/><circle cx="9" cy="12" r="1" fill="#101527" stroke="#101527" stroke-width="1.5"/><circle cx="9" cy="18" r="1" fill="#101527" stroke="#101527" stroke-width="1.5"/><circle cx="15" cy="6" r="1" fill="#101527" stroke="#101527" stroke-width="1.5"/><circle cx="15" cy="12" r="1" fill="#101527" stroke="#101527" stroke-width="1.5"/><circle cx="15" cy="18" r="1" fill="#101527" stroke="#101527" stroke-width="1.5"/></g>
-</svg>

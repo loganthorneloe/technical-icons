@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Lock</title><desc id="desc">Closed padlock with visible shackle and keyhole. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M86 114 V83 a40 40 0 0 1 80 0 V114" fill="none" stroke="#E9DDC7" stroke-width="15"/><rect x="65" y="111" width="122" height="100" rx="8" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="126" cy="150" r="11" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/><path d="M121 156 V179 H131 V156" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/></g>
-</svg>

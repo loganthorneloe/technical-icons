@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Graph</title><desc id="desc">Five vertices connected by undirected edges. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M64 70 L177  50 L204 161 L119 203 L64 70 M64 70 L43 164 L119 203 L177 50 M43 164 L204 161" fill="none" stroke="#E9DDC7" stroke-width="4"/><circle cx="64" cy="70" r="18" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="177" cy="50" r="18" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="204" cy="161" r="18" fill="#CC3333" stroke="#101527" stroke-width="2.5"/><circle cx="119" cy="203" r="18" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="43" cy="164" r="18" fill="#526B7A" stroke="#101527" stroke-width="2.5"/></g>
-</svg>

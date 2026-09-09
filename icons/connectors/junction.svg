@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Junction</title><desc id="desc">Four-way connection with an explicit junction dot. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M25 128 H229 M128 25 V229" fill="none" stroke="#E9DDC7" stroke-width="3"/><circle cx="128" cy="128" r="7" fill="#E9DDC7" stroke="#E9DDC7" stroke-width="2.5"/></g>
-</svg>

@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Change review</title><desc id="desc">Proposed change flowing toward an existing history line. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M75 207 V52 M178 206 V91 Q178 60 133 60" fill="none" stroke="#E9DDC7" stroke-width="6"/><path d="M147 46 L132 60 L147 74" fill="none" stroke="#CC3333" stroke-width="5"/><circle cx="75" cy="53" r="16" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="75" cy="203" r="16" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="178" cy="203" r="16" fill="#CC3333" stroke="#101527" stroke-width="2.5"/></g>
-</svg>

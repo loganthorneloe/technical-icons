@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Feedback</title><desc id="desc">Review message inside a circular feedback loop. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M60 91 a81 70 0 0 1 139 0 M197 164 a81 70 0 0 1 -139 0" fill="none" stroke="#E9DDC7" stroke-width="5"/><path d="M177 79 L201 94 L207 69 M77 174 L55 161 L46 186" fill="none" stroke="#CC3333" stroke-width="5"/><path d="M80 103 H171 V151 H133 L109 173 V151 H80 Z" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><line x1="96" y1="120" x2="155" y2="120" stroke="#E9DDC7" stroke-width="3"/><line x1="96" y1="134" x2="143" y2="134" stroke="#E9DDC7" stroke-width="3"/></g>
-</svg>

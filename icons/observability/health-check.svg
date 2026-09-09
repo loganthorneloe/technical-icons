@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Health check</title><desc id="desc">Instrument dial with a heartbeat signal and status indicator. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><circle cx="126" cy="127" r="88" fill="#526B7A" stroke="#101527" stroke-width="2.5"/><circle cx="126" cy="127" r="70" fill="#101527" stroke="#101527" stroke-width="2.5"/><path d="M61 129 H89 L106 90 L133 169 L151 116 L162 129 H191" fill="none" stroke="#E9DDC7" stroke-width="5"/><circle cx="199" cy="63" r="17" fill="#CC3333" stroke="#101527" stroke-width="2.5"/></g>
-</svg>

@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Dashed arrow</title><desc id="desc">Dashed directed edge for an optional or asynchronous relation. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><line x1="25" y1="128" x2="225" y2="128" stroke="#101527" stroke-width="3" stroke-dasharray="10 9"/><path d="M219 121 L229 128 L219 135" fill="none" stroke="#101527" stroke-width="3"/></g>
-</svg>

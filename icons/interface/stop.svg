@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Stop</title><desc id="desc">A square red stop key with a machined top and side. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><polygon points="53,53 66,43.9 207,43.9 194,53" fill="#E4604E" stroke="#101527" stroke-width="2.5"/><polygon points="194,53 207,43.9 207,194.9 194,204" fill="#8F292C" stroke="#101527" stroke-width="2.5"/><rect x="53" y="53" width="141" height="151" rx="3" fill="#CC3333" stroke="#101527" stroke-width="2.5"/><line x1="57" y1="55" x2="190" y2="55" stroke="#E4604E" stroke-width="1.5"/></g>
-</svg>

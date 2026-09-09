@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Loss curve</title><desc id="desc">Optimization curve descending toward a lower loss. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M45  40 V208 H222" fill="none" stroke="#E9DDC7" stroke-width="3"/><path d="M 60 65 C81 72 80 136 112 160 S162 187 210 190" fill="none" stroke="#CC3333" stroke-width="5"/><line x1="47" y1="153" x2="214" y2="153" stroke="#526B7A" stroke-width="2" stroke-dasharray="5 7"/><circle cx="210" cy="190" r="5" fill="#E9DDC7" stroke="#101527" stroke-width="2.5"/></g>
-</svg>

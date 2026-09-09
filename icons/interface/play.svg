@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Play</title><desc id="desc">A solid triangular red playback key. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><g transform="translate(13 -9.1) scale(1)"><path d="M66.000 40.000 L211.000 126.000 L66.000 213.000 Z" fill="#8F292C" stroke="#101527" stroke-width="2.5" fill-rule="evenodd"/></g><polygon points="66,40 211,126 224,116.9 79,30.9" fill="#E4604E" stroke="none" stroke-width="0"/><polygon points="211,126 66,213 79,203.9 224,116.9" fill="#E4604E" stroke="none" stroke-width="0"/><polygon points="66,213 66,40 79,30.9 79,203.9" fill="#8F292C" stroke="none" stroke-width="0"/><path d="M66.000 40.000 L211.000 126.000 L66.000 213.000 Z" fill="#CC3333" stroke="#101527" stroke-width="2.5" fill-rule="evenodd"/></g>
-</svg>

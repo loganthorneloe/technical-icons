@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Loop back</title><desc id="desc">Return connection routing around a lower perimeter. </desc>
-<g stroke-linecap="round" stroke-linejoin="round"><path d="M30  70 V185 Q30 211 56 211 H199 Q225 211 225 185 V45 H160" fill="none" stroke="#101527" stroke-width="3"/><path d="M170 38 L160 45 L170 52" fill="none" stroke="#101527" stroke-width="3"/></g>
-</svg>
